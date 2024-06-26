@@ -1,2 +1,6 @@
 def simple():
 	print("This is simple function")
+
+
+def hard():
+	print("This is hard function")
